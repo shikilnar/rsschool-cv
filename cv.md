@@ -1,10 +1,11 @@
 # Ilnar Shakirov
 
 ## Contacts
-Telegram: [@shikilnar](https://t.me/shikilnar)
-Email: [shikilnar@ya.ru](shikilnar@ya.ru)
-Discord: [shikilnar#5556](shikilnar#5556)
-Discord RS School: Ilnar (@Github-shikilnar)
+
+* Telegram: [@shikilnar](https://t.me/shikilnar)
+* Email: shikilnar@ya.ru
+* Discord: shikilnar#5556
+* Discord RS School: Ilnar (@Github-shikilnar)
 
 ## About me
 
