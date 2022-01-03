@@ -23,9 +23,13 @@ body {
 } */
 
 .container {
-    max-width: 1440px;
+    max-width: 1200px;
     margin: 0 auto;
 }
+
+/* .section {
+    width: 50%;
+} */
 
 .nav-list {
     display: flex;
@@ -60,19 +64,21 @@ html {
 .section-item a {
     color: rgb(135, 186, 245);
     text-decoration: none;  
-    transition: color 0.5s;
+    /* transition: color 0.5s; */
 }
-.section-item a:hover {
+
+a {
+    text-decoration: none;
     color: #4d2323;
 }
+
+/* .section-item a:hover {
+    color: #eb0f0f;
+} */
 
 .main-container {
     display: flex;
     flex-wrap: wrap;
-}
-  
-.section {
-    width: 75%;
 }
 
 /* @media (max-width: 768px) {
